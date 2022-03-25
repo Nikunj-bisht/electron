@@ -11,7 +11,7 @@
   "author": "nikunj",
   "license": "ISC",
   "dependencies": {
-    "electron": "^8.1.1"
+    "electron": "^13.6.6"
   },
   "build": {
     "appId": "yourappid",
